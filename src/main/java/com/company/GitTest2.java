@@ -5,5 +5,6 @@ public class GitTest2 {
         System.out.println("1111");
         System.out.println("hot-fix1");
         System.out.println("master 冲突！");
+        System.out.println("hot-fix 冲突！");
     }
 }
